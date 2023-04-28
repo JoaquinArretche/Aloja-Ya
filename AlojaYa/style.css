@@ -216,6 +216,20 @@ input {
   opacity: 0;
 }
 
+.communication-list {
+  padding-left: 1.5rem;
+  padding-top: 1rem;
+}
+
+.communication-method {
+  margin-bottom: 0.3rem;
+}
+
+.communication-link {
+  color: black;
+  text-decoration: underline;
+}
+
 #image {
   margin-left: 6rem;
 }
